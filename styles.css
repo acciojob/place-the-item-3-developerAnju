@@ -3,5 +3,5 @@
 .holder{
 	display: flex;
 	flex-wrap: wrap;
-	justify-content: sapce-evenly;
+	justify-content: space-evenly;
 }
